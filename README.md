@@ -1,6 +1,7 @@
 ## HourseDoctor
 
 > HourseDoctor give you an easy way to take care of your family healthy.
+> 私人医生帮助你轻松照理家人的健康
 
 ## 1.项目背景：
     做这个项目的由来是，越来越多的年轻人在外面打拼，远离家乡，父母上了年纪，身体需要人照顾，生病了能及时、方便的得到治疗。
